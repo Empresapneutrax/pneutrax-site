@@ -1,0 +1,27 @@
+PNEUTRAX — PORTFÓLIO INSTITUCIONAL COMPLETO
+
+Esta versão do site foi montada a partir do PDF de portfólio enviado, usando os textos, a organização temática, a marca e as imagens extraídas do próprio documento.
+
+COMO ABRIR
+1. Extraia o ZIP.
+2. Abra a pasta PNEUTRAX_Portfolio_Completo.
+3. Dê dois cliques em index.html.
+4. Para carregar as fontes externas, é necessário internet. As imagens extraídas do PDF estão na pasta assets.
+
+CONTEÚDO INCLUÍDO
+- Apresentação e princípios empresariais
+- Distribuição de pneus para carros, motocicletas e caminhões
+- Serviços de distribuição, operação integrada 3PL, transporte e atendimento digital
+- Extensão geográfica proposta para a base de Suape/PE
+- Diferencial da Pneutrax como distribuidora e explicação do modelo 3PL
+- Recursos digitais, segurança do trabalho e logística internacional
+- E-commerce, canais de contato e fluxos de operação
+- Imagens e marca extraídas do portfólio PDF
+
+ANTES DE PUBLICAR
+- O documento descreve a base de Suape como proposta; confirme endereço e operação real.
+- Confirme o número de colaboradores e a data de fundação antes de apresentar como dados definitivos.
+- O telefone/WhatsApp estava em branco no PDF e não foi inventado.
+- O e-mail pneutrax.logistica@gmail.com e o Instagram @pneutraxlogistica foram transcritos do PDF.
+- O site apresenta conteúdo institucional conforme o portfólio; revise todos os dados antes da publicação.
+- As imagens incluídas foram extraídas do arquivo fornecido.
